@@ -2,8 +2,8 @@ http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/725
 #EXTINF:-1, MA:ALOULA INT 
 http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/726
 #EXTINF:-1, MA:ALMAGHRIBIA 
-http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/727
-#EXTINF:-1, MA:2M 
+#EXTINF:-1 tvg-id="2M Monde ARB" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eE1SdyA.png" group-title="",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts/2m_monde.m3u8
 http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/728
 #EXTINF:-1, MA: CHADA TV
 http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/729
