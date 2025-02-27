@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2MMonde.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="General" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0",2M Monde 
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1
 https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
 #EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",AL24 News (1080p)
