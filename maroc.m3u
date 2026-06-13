@@ -1,108 +1,168 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Sports",Abu Dhabi Sports 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8
-#EXTINF:-1 tvg-id="AL24News.dz" tvg-logo="https://i.imgur.com/vyVEXYL.png" group-title="News",AL24 News (1080p)
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Aoula International (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_inter/hls_snrt/al_aoula_inter.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Al Aoula Laâyoune (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Al Araby TV 2 (1080p)
-https://alarabyta.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Al Araby TV (1080p)
-https://alarabyta.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="AlMaghribia.ma" tvg-logo="https://i.imgur.com/7GaahYh.png" group-title="General",Al Maghribia (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
-https://starmenajo.com/hls/almasar/index.m3u8
-#EXTINF:-1 tvg-id="AmouYazidTV.dz" tvg-logo="https://i.imgur.com/L8UPGPC.png" group-title="Kids",Amou Yazid TV (576p)
-http://mkstream.servehttp.com:1940/AmouYazid/ay1/playlist.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-logo="https://i.imgur.com/XjzK3gZ.png" group-title="Sports",Arryadia (360p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Assadissa.ma" tvg-logo="https://i.imgur.com/un6qTGO.png" group-title="Religious",Assadissa (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/assadissa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="Athaqafia.ma" tvg-logo="https://i.imgur.com/mrwFI2L.png" group-title="Culture",Athaqafia (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/arrabiaa/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="BBCArabic.uk" tvg-logo="https://i.imgur.com/ScyTG6P.png" group-title="News",BBC Arabic (720p)
-https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-id="ChadaTV.ma" tvg-logo="https://i.imgur.com/inJyJBN.png" group-title="General",Chada TV (720p)
-https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNA.dz" tvg-logo="https://i.imgur.com/Ki3ySUE.png" group-title="Religious",CNA (Chaîne Nord Africaine) (360p) [Not 24/7]
-https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-logo="https://i.imgur.com/Dj16oKL.png" group-title="General",Dubai One (1080p)
-https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="ElwataniaTV.dz" tvg-logo="https://i.imgur.com/NKR8WFq.png" group-title="General",Elwatania TV (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_1b36cfb0ba2411ee9700956e0f7084c8
-https://stream.castr.com/62c18c3f14d09a0b7e5355a5/live_1b36cfb0ba2411ee9700956e0f7084c8/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="FebruaryChannel.ly" tvg-logo="https://i.imgur.com/WdMIpsA.png" group-title="News",February Channel (1080p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-logo="https://i.imgur.com/o1Vz78r.png" group-title="News",France 24 Arabic (1080p)
-https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="JawharaTV.tn" tvg-logo="https://i.imgur.com/mRSQ5bP.png" group-title="Music",JAWHARA TV (720p) [Not 24/7]
-https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Libya Al Ahrar TV (1080p)
-#EXTVLCOPT:http-referrer=https://player.castr.com/live_8c1539b0eb6c11eda9f0c7bd90506d4f
-https://stream.castr.com/64490fcefe045f1b63012886/live_8c1539b0eb6c11eda9f0c7bd90506d4f/index.m3u8
-#EXTINF:-1 tvg-id="LibyaAlWataniya.ly" tvg-logo="https://i.imgur.com/KSUny9D.jpeg" group-title="General",Libya Al Wataniya (360p)
-https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8
-#EXTINF:-1 tvg-id="LibyaMostakbal.ly" tvg-logo="https://i.imgur.com/vNv6APA.png" group-title="General",Libya Mostakbal (1080p)
-http://41.33.221.140:1935/monitor/libyaalmustaqbal.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC1.ae" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="General",MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-#EXTINF:-1 tvg-id="MBC2.ae" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="Movies",MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-#EXTINF:-1 tvg-id="MBC3.ae" tvg-logo="https://i.imgur.com/PVt8OPN.png" group-title="Kids",MBC 3 KSA (1080p)
-https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:-1 tvg-id="MBC4.ae" tvg-logo="https://i.imgur.com/BcXASJp.png" group-title="Entertainment",MBC 4 (1080p)
-https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 tvg-id="MBC5.ae" tvg-logo="https://i.imgur.com/fRWaDyF.png" group-title="Family",MBC 5 (1080p)
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 tvg-id="MBCBollywood.ae" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="Movies",MBC Bollywood (1080p) [Geo-blocked]
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1 tvg-id="MBCDrama.ae" tvg-logo="https://i.imgur.com/g5PWnqp.png" group-title="Entertainment",MBC Drama KSA (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-#EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="Music",MBC FM (1080p)
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-#EXTINF:-1 tvg-id="MBCPlusDrama.sa" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
-https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 tvg-id="Medi1TVAfrique.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Afrique (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Arabic (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma" tvg-logo="https://i.imgur.com/5S3er4e.png" group-title="News",Medi 1 TV Maghreb (1080p) [Not 24/7]
-https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaïque FM (480p) [Not 24/7]
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-logo="https://i.imgur.com/G8vGrn1.png" group-title="News",RT Arabic (1080p) [Geo-blocked]
-https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
-#EXTINF:-1 tvg-id="Sahara24.mr" tvg-logo="https://i.imgur.com/7RnkkCU.png" group-title="News",Sahara 24 (720p)
-https://live.saharamedias.net/sahara24-live/index.m3u8
-#EXTINF:-1 tvg-id="SalamTV.ly" tvg-logo="https://i.imgur.com/u1sgEdd.png" group-title="General",Salam TV (1080p)
-https://amsart-live.ercdn.net/salamtv/salamtv.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://i.imgur.com/SvjU4h6.png" group-title="News",Sky News Arabia (1080p) [Not 24/7]
-https://stream.skynewsarabia.com/ott/ott.m3u8
-#EXTINF:-1 tvg-id="SkyNewsArabiaVertical.ae" tvg-logo="https://i.imgur.com/FjtzQQs.png" group-title="News",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-https://stream.skynewsarabia.com/vertical/vertical.m3u8
-#EXTINF:-1 tvg-id="TamazightTV.ma" tvg-logo="https://i.imgur.com/fm6S7we.png" group-title="General",Tamazight (360p)
-#EXTVLCOPT:http-referrer=https://snrtlive.ma/
-https://cdn-globecast.akamaized.net/live/eds/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="TanasuhTV.ly" tvg-logo="https://i.imgur.com/iBAhM2v.png" group-title="General",Tanasuh TV (1080p)
-https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="News",TRT Arabi (1080p)
-http://185.234.111.229:8000/play/a002
-#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="General",TV2 (480p)
-https://tgn.bozztv.com/dvrfl05/gin-canalalgerie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TV4.dz" tvg-logo="https://i.imgur.com/BZvdjBN.png" group-title="General",TV4 (576p)
-https://tgn.bozztv.com/dvrfl05/ga-algeria4/index.m3u8
-#EXTINF:-1 tvg-id="TV6.dz" tvg-logo="https://i.imgur.com/nu0CpJn.png" group-title="Entertainment",TV6 (1080p)
-https://tgn.bozztv.com/dvrfl05/ga-algeria6/index.m3u8
-#EXTINF:-1 tvg-id="Wanasah.ae" tvg-logo="https://i.imgur.com/nLtiXNf.png" group-title="Music",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 tvg-id="WasatTV.ly" tvg-logo="https://i.imgur.com/f9pL2NE.png" group-title="General",Wasat TV (1080p)
-https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/playlist.m3u8
+#EXTINF:-1,⚽ beIN MAX 1⁴ᴷ (8K)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4540
+#EXTINF:-1,⚽ beIN MAX 2⁴ᴷ (8K)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4541
+#EXTINF:-1,⚽ beIN MAX 3⁴ᴷ (8K)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4542
+#EXTINF:-1,⚽ beIN MAX 1⁴ᴷ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4525
+#EXTINF:-1,⚽ beIN MAX 2⁴ᴷ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4528
+#EXTINF:-1,⚽beIN MAX 4⁴ᴷ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4532
+#EXTINF:-1,⚽ beIN MAX 1ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4526
+#EXTINF:-1,⚽ beIN MAX 1 ˢᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4527
+#EXTINF:-1,⚽ beIN MAX 2ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4529
+#EXTINF:-1,⚽ beIN MAX 2 ˢᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4530
+#EXTINF:-1,⚽beIN MAX1⁴ᴷ  (source 2)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4534
+#EXTINF:-1,⚽beIN MAX 2⁴ᴷᴰ (source 2)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4535
+#EXTINF:-1,⚽ beIN MAX 1 ˢᴰ (source 3)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4539
+#EXTINF:-1,⚽ beIN MAX 1ᴴᴰ (source 3)
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4538
+#EXTINF:-1,⚽ beIN MAX 3⁴ᴷ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4531
+#EXTINF:-1,⚽ beIN MAX 3ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4543
+#EXTINF:-1,⚽ beIN MAX 3 ˢᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4544
+#EXTINF:-1,⚽ beIN MAX 4ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4545
+#EXTINF:-1,⚽ beIN MAX 4ˢᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4546
+#EXTINF:-1,⚽ beIN MAX 5⁴ᴷ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4536
+#EXTINF:-1,⚽ beIN MAX 6⁴ᴷ  
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4537
+#EXTINF:-1,•●★★--- beIN Sport Full HD ---★★●•
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3220
+#EXTINF:-1,beIN SPORTS Full HD 1
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3221
+#EXTINF:-1,beIN SPORTS Full HD 2
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3222
+#EXTINF:-1,beIN SPORTS Full HD 3
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3224
+#EXTINF:-1,beIN SPORTS Full HD 4
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3225
+#EXTINF:-1,beIN SPORTS Full HD 5
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3226
+#EXTINF:-1,beIN SPORTS Full HD 6
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3227
+#EXTINF:-1,beIN SPORTS Full HD 7
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3228
+#EXTINF:-1,beIN SPORTS Full HD 8
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3230
+#EXTINF:-1,beIN SPORTS Full HD 9
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4033
+#EXTINF:-1,•●★★--- beIN SPORTS [HVEC_H265] ---★★●•
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3703
+#EXTINF:-1,beIN SPORTS 1 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/459
+#EXTINF:-1,beIN SPORTS 2 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/450
+#EXTINF:-1,beIN SPORTS 3 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/451
+#EXTINF:-1,beIN SPORTS 4 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/453
+#EXTINF:-1,beIN SPORTS 5 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3875
+#EXTINF:-1,beIN SPORTS 6 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/455
+#EXTINF:-1,beIN SPORTS 7 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4002
+#EXTINF:-1,beIN SPORTS 8 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/457
+#EXTINF:-1,beIN SPORTS 9 [H265]
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4003
+#EXTINF:-1,•●★★--- beIN SPORTS ᴴᴰ ---★★●•
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/117
+#EXTINF:-1,beIN SPORTS News
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/2051
+#EXTINF:-1,beIN SPORTS 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/46
+#EXTINF:-1,beIN SPORTS 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/47
+#EXTINF:-1,beIN SPORTS 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/49
+#EXTINF:-1,beIN SPORTS 4 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/50
+#EXTINF:-1,beIN SPORTS 5 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/51
+#EXTINF:-1,beIN SPORTS 6 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/52
+#EXTINF:-1,beIN SPORTS 7 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/53
+#EXTINF:-1,beIN SPORTS 8 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/54
+#EXTINF:-1,beIN SPORTS 9 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4034
+#EXTINF:-1,beIN SPORTS XTRA 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4095
+#EXTINF:-1,beIN SPORTS  FRENCH 1 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3972
+#EXTINF:-1,beIN SPORTS NBA 
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3973
+#EXTINF:-1,•●★★--- beIN SPORTS SD ---★★●•
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/2873
+#EXTINF:-1,beIN SPORTS 1 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/56
+#EXTINF:-1,beIN SPORTS 2 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/57
+#EXTINF:-1,beIN SPORTS 3 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/59
+#EXTINF:-1,beIN SPORTS 4 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/60
+#EXTINF:-1,beIN SPORTS 5 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/93
+#EXTINF:-1,beIN SPORTS 6 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/92
+#EXTINF:-1,beIN SPORTS 7 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/91
+#EXTINF:-1,beIN SPORTS 8 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/61
+#EXTINF:-1,beIN SPORTS 9 SD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4035
+#EXTINF:-1,•●★★--- beIN Entertainment ---★★●•
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/121
+#EXTINF:-1,AR: beIN Movies 1 HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/24
+#EXTINF:-1,AR: beIN Movies 2 HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/17
+#EXTINF:-1,AR: beIN Movies 3 HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/18
+#EXTINF:-1,AR: beIN Movies 4 HD 
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/19
+#EXTINF:-1,AR: beIN Series 1 HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/20
+#EXTINF:-1,AR: beIN Series 2 HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/21
+#EXTINF:-1,AR: beIN Drama
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/15
+#EXTINF:-1,AR:  beIN Outdoor
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/13
+#EXTINF:-1,AR:  beIN BBC earth HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/14
+#EXTINF:-1,AR: beIN Jeem HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/22
+#EXTINF:-1,AR: beIN FATAFEAT HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/25
+#EXTINF:-1,AR: beIN Gourmet 
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/947
+#EXTINF:-1,AR: beIN Baraeem
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/2028
+#EXTINF:-1,AR: beIN JUNIOR HD
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/2947
+#EXTINF:-1,AR:Cartoon Network Arabic
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/2949
+#EXTINF:-1,AR: beIN BOXOFFICE HD1
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/3276
+#EXTINF:-1,beIN SPORTS XTRA 3 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4505
+#EXTINF:-1,beIN SPORTS XTRA 2 ᴴᴰ
+http://ugeen.live:8080/Ugeen_VIPBTRY9D/jkzNS8/4504
